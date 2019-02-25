@@ -1,0 +1,72 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Background}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{Benefits of Blockchain-based System}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{Purpose of this Thesis}{section.1.1}% 4
+\BOOKMARK [0][-]{chapter.2}{Foundation of Blockchain Technology}{}% 5
+\BOOKMARK [1][-]{section.2.1}{Bitcoin}{chapter.2}% 6
+\BOOKMARK [2][-]{subsection.2.1.1}{Peer-to-peer network}{section.2.1}% 7
+\BOOKMARK [2][-]{subsection.2.1.2}{Cryptographic hash function}{section.2.1}% 8
+\BOOKMARK [2][-]{subsection.2.1.3}{Consensus Mechanism}{section.2.1}% 9
+\BOOKMARK [1][-]{section.2.2}{Blockchain Technology}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.1}{Distributed Ledger Technology\(DLT\)}{section.2.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.2}{Components of Blockchain system}{section.2.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.3}{Types of Blockchain System}{section.2.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.4}{Application of Blockchain Technology}{section.2.2}% 14
+\BOOKMARK [0][-]{chapter.3}{Turnover box system}{}% 15
+\BOOKMARK [1][-]{section.3.1}{Supply Chain Management\(SCM\)}{chapter.3}% 16
+\BOOKMARK [1][-]{section.3.2}{Logistics}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.3}{Turnover Box System}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.3.1}{Challenges}{section.3.3}% 19
+\BOOKMARK [1][-]{section.3.4}{Key advantages of blockchain over traditional systems}{chapter.3}% 20
+\BOOKMARK [0][-]{chapter.4}{Design of the System}{}% 21
+\BOOKMARK [1][-]{section.4.1}{Project description}{chapter.4}% 22
+\BOOKMARK [2][-]{subsection.4.1.1}{Product}{section.4.1}% 23
+\BOOKMARK [2][-]{subsection.4.1.2}{Roles}{section.4.1}% 24
+\BOOKMARK [2][-]{subsection.4.1.3}{Pre- and post-conditions}{section.4.1}% 25
+\BOOKMARK [1][-]{section.4.2}{Conceptual model}{chapter.4}% 26
+\BOOKMARK [1][-]{section.4.3}{Mapping into Smart Contract}{chapter.4}% 27
+\BOOKMARK [0][-]{chapter.5}{Related Works and Application}{}% 28
+\BOOKMARK [1][-]{section.5.1}{Research in the Scientific Community}{chapter.5}% 29
+\BOOKMARK [1][-]{section.5.2}{Trial in Industry}{chapter.5}% 30
+\BOOKMARK [2][-]{subsection.5.2.1}{Classification}{section.5.2}% 31
+\BOOKMARK [2][-]{subsection.5.2.2}{Products or Platforms}{section.5.2}% 32
+\BOOKMARK [2][-]{subsection.5.2.3}{Platform Benchmarks Overview}{section.5.2}% 33
+\BOOKMARK [2][-]{subsection.5.2.4}{Criteria for platform selection}{section.5.2}% 34
+\BOOKMARK [0][-]{chapter.6}{Application}{}% 35
+\BOOKMARK [1][-]{section.6.1}{Architecture}{chapter.6}% 36
+\BOOKMARK [1][-]{section.6.2}{Key Components}{chapter.6}% 37
+\BOOKMARK [2][-]{subsection.6.2.1}{Roles in Corda}{section.6.2}% 38
+\BOOKMARK [2][-]{subsection.6.2.2}{Corda Network}{section.6.2}% 39
+\BOOKMARK [2][-]{subsection.6.2.3}{Corda Ledger}{section.6.2}% 40
+\BOOKMARK [2][-]{subsection.6.2.4}{States}{section.6.2}% 41
+\BOOKMARK [2][-]{subsection.6.2.5}{Contracts}{section.6.2}% 42
+\BOOKMARK [2][-]{subsection.6.2.6}{Flows}{section.6.2}% 43
+\BOOKMARK [2][-]{subsection.6.2.7}{Consensus}{section.6.2}% 44
+\BOOKMARK [1][-]{section.6.3}{UML}{chapter.6}% 45
+\BOOKMARK [2][-]{subsection.6.3.1}{Action Sequence}{section.6.3}% 46
+\BOOKMARK [0][-]{chapter.7}{Test and Evaluation}{}% 47
+\BOOKMARK [1][-]{section.7.1}{Testing Environment}{chapter.7}% 48
+\BOOKMARK [1][-]{section.7.2}{Functional Test}{chapter.7}% 49
+\BOOKMARK [2][-]{subsection.7.2.1}{Function 1: Add Box}{section.7.2}% 50
+\BOOKMARK [2][-]{subsection.7.2.2}{Function 2: Deposit}{section.7.2}% 51
+\BOOKMARK [2][-]{subsection.7.2.3}{Function 3: Refuel Fee}{section.7.2}% 52
+\BOOKMARK [2][-]{subsection.7.2.4}{Function 4: Pledge}{section.7.2}% 53
+\BOOKMARK [1][-]{section.7.3}{Integration Test}{chapter.7}% 54
+\BOOKMARK [1][-]{section.7.4}{Performance Test}{chapter.7}% 55
+\BOOKMARK [2][-]{subsection.7.4.1}{Throughput}{section.7.4}% 56
+\BOOKMARK [2][-]{subsection.7.4.2}{Robustness and Recovery}{section.7.4}% 57
+\BOOKMARK [1][-]{section.7.5}{Features of this Project}{chapter.7}% 58
+\BOOKMARK [1][-]{section.7.6}{Future work}{chapter.7}% 59
+\BOOKMARK [0][-]{chapter.8}{Result and Conclusion}{}% 60
+\BOOKMARK [1][-]{section.8.1}{When to Use Blockchain}{chapter.8}% 61
+\BOOKMARK [2][-]{subsection.8.1.1}{Factors to Consider}{section.8.1}% 62
+\BOOKMARK [1][-]{section.8.2}{Summary}{chapter.8}% 63
+\BOOKMARK [2][-]{subsection.8.2.1}{What Were Accomplished}{section.8.2}% 64
+\BOOKMARK [2][-]{subsection.8.2.2}{Why Corda not Hyperledger Fabric}{section.8.2}% 65
+\BOOKMARK [1][-]{section.8.3}{Outlook}{chapter.8}% 66
+\BOOKMARK [0][-]{chapter*.30}{Bibliography}{}% 67
+\BOOKMARK [0][-]{section*.31}{Appendices}{}% 68
+\BOOKMARK [0][-]{Appendix.a.A}{Source Codes}{}% 69
+\BOOKMARK [0][-]{Appendix.a.B}{Configuration Files}{}% 70
+\BOOKMARK [1][-]{section.a.B.1}{A Sample of Configuration Files}{Appendix.a.B}% 71
+\BOOKMARK [1][-]{section.a.B.2}{Interaction command}{Appendix.a.B}% 72
