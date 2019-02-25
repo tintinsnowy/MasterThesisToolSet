@@ -6,3 +6,8 @@ The tool set including the following components:
 * Latex template of theis
 * Latex template of Slides
 
+## recommended tool
+
+* TexStduio
+* Visual-paradigm
+
